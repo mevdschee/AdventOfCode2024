@@ -1,6 +1,6 @@
 # AdventOfCode2024
 
-Advent of Code 2024 puzzle solutions in Go
+Advent of Code 2024 puzzle solutions in Kotlin.
 
 See: http://adventofcode.com/2024/
 
